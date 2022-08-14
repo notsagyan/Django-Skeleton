@@ -5,7 +5,6 @@
 First clone the repository from Github and switch to the new directory:
 
     $ git clone https://github.com/SagyanXOXO/Django-Skeleton.git
-    $ cd Journal
     
 Activate the virtualenv for your project.
     
