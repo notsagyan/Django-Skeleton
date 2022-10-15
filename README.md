@@ -1,4 +1,4 @@
-# Journal 
+# Skeleton project for django projects. 
 
 # Getting Started
 
